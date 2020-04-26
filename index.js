@@ -1,2 +1,2 @@
-console.error("YALPPPPPPP!!!!!!"
-)
+console.error("YALPPPPPPP!!!!!!")
+consol.log("Name, Surname")
