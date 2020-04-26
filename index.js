@@ -1,2 +1,2 @@
 console.error("YALPPPPPPP!!!!!!")
-console.log
+console.log(date, time)
